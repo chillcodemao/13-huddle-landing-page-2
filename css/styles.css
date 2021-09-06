@@ -255,6 +255,10 @@ footer {
         margin-left: 8rem;
     }
 
+    .huddle-logo img {
+        max-width: 20rem;
+    }
+
     .try-huddle-free {
         max-width: 20rem;
         font-weight: 700;
