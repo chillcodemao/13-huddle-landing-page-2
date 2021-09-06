@@ -1,0 +1,526 @@
+.huddle-logo img {
+    max-width: 10.4rem;
+}
+
+.huddle-mockups img {
+    max-width: 29.6rem;
+}
+
+.huddle-grow-image img, .huddle-flow-image img, .huddle-users-image img {
+    max-width: 25.6rem;
+}
+
+.huddle-logo-footer img {
+    width: 100%;
+    max-width: 16.7rem;
+}
+
+.header-container {
+    background-image: url(../img/bg-hero-mobile.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.header-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header-top-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2.7rem;
+    margin-right: 1.6rem;
+    margin-left: 1.6rem;
+}
+
+.try-huddle-free {
+    border: 0.1rem solid #FFF;
+    border-radius: 1.2rem;
+    overflow: hidden;
+    padding: 0.5rem 2rem;
+    box-shadow: 0rem 0.2rem 0.7rem rgba(0, 0, 0, 0.0954201);
+    transition: all 0.25s ease-in-out;
+}
+
+.header-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
+    margin-top: 8rem;
+}
+
+.about-huddle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.about-huddle-brief {
+    margin-top: 2.4rem;
+}
+
+.get-started-free {
+    margin-top: 3.2rem;
+    border: 0.1rem solid #FF52C1;
+    border-radius: 2rem;
+    overflow: hidden;
+    padding: 1.2rem 6rem;
+    box-shadow: 0.2rem 0.3rem 0.6rem 0.1rem rgba(255, 82, 193, 0.167);
+}
+
+.get-started-free a {
+    transition: all 0.25s ease-in-out;
+}
+
+.huddle-mockups {
+    margin-top: 5.6rem;
+    margin-bottom: 3.7rem;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4rem;
+    margin-top: 5.9rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+}
+
+.card {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #FFF;
+    border: 0.1rem solid #FFF;
+    border-radius: 1.6rem;
+    overflow: hidden;
+    box-shadow: 0rem 0rem 1.4rem rgba(0, 0, 0, 0.07);
+    padding: 2.4rem 3.9rem 3.3rem 3.9rem;
+    max-width: 60rem;
+}
+
+.huddle-images {
+    max-width: 25.6rem;
+    max-height: 25.6rem;
+}
+
+.huddle-grow-brief h2, .huddle-flow-brief h2, .huddle-users-brief h2 {
+    margin-top: 2.4rem;
+}
+
+.huddle-grow-brief p, .huddle-flow-brief p, .huddle-users-brief p {
+    margin-top: 1.6rem;
+}
+
+.huddle-cta {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 4.1rem 1.2rem;
+    background-color: #FFF;
+    border: 0.1rem solid #FFF;
+    border-radius: 1.6rem;
+    overflow: hidden;
+    box-shadow: 0rem 0rem 1.4rem rgba(0, 0, 0, 0.07);
+    position: relative;
+    top: 9rem;
+}
+
+.get-started-free-bottom {
+    margin-top: 2.4rem;
+    border: 0.1rem solid #FF52C1;
+    border-radius: 2rem;
+    overflow: hidden;
+    padding: 1.2rem 5rem;
+    box-shadow: 0.2rem 0.3rem 0.6rem 0.1rem rgba(255, 82, 193, 0.167);
+}
+
+.get-started-free-bottom a {
+    transition: all 0.25s ease-in-out;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-container {
+    padding: 13.9rem 2.1rem 4.6rem 1.6rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.huddle-logo-footer {
+    margin-bottom: 2.9rem;
+}
+
+.footer-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 2.4rem;
+}
+
+.contact {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    align-items: flex-start;
+    gap: 2.4rem;
+}
+
+.contact-icon {
+    width: 2.4rem;
+    flex-shrink: 0;
+}
+
+.useful-links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    align-self: flex-start;
+    gap: 1.6rem;
+    margin-top: 4.1rem;
+}
+
+.about-what-faq, .career-blog-contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 1.6rem;
+}
+
+.about-what-faq li, .career-blog-contact li {
+    transition: all 0.25s ease-in-out;
+}
+
+.social-media-copyright {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2.4rem;
+    margin-top: 3rem;
+    max-width: 33.8rem;
+    align-self: center;
+}
+
+.social-media-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+.social-media-links img {
+    filter: brightness(0);
+    filter: saturate(100%);
+    filter: invert(92%) sepia(95%) saturate(25%) hue-rotate(258deg) brightness(140%) contrast(100%);
+    transition: all 0.25s ease-in-out;
+}
+
+@media (min-width:970px) {
+
+    .header-top-bar {
+        margin-top: 6.8rem;
+        margin-right: 8rem;
+        margin-left: 8rem;
+    }
+
+    .try-huddle-free {
+        max-width: 20rem;
+        font-weight: 700;
+        font-size: 1.4rem;
+        line-height: 1.9rem;
+        padding: 1rem 6rem;
+        border-radius: 2.4rem;
+    }
+
+    .try-huddle-free a:hover, .try-huddle-free a:focus {
+        color: #808E9A;
+        cursor: pointer;
+    }
+    
+    .huddle-mockups img {
+        max-width: 40rem;
+    }
+    
+    .header-content {
+        flex-direction: row;
+        justify-content: space-around;
+        gap: 5rem;
+        margin-left: 8rem;
+        margin-right: 8rem;
+    }
+
+    .about-huddle {
+        max-width: 40rem;
+        text-align: left;
+    }
+
+    .about-huddle-brief {
+        margin-top: 3.2rem;
+    }
+
+    .get-started-free:hover, .get-started-free:focus {
+        background-color: #FF9ADB;
+        border-color: #FF9ADB;
+        cursor: pointer;
+    }
+
+    .card {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        gap: 5rem;
+        padding: 5rem;
+        flex: 1 1 20rem;
+        max-width: 80rem;
+    }
+
+    .card h2 {
+        margin-top: 0rem;
+    }
+
+    .brief {
+        max-width: 40rem;
+        justify-content: flex-start;
+        align-items: center;
+        text-align: left;
+    }
+
+    .huddle-images {
+        margin-right: 5rem;
+    }
+
+    .huddle-flow {
+        flex-direction: row-reverse;
+    }
+
+    .huddle-flow-brief {
+        text-align: left;
+    }
+
+    .huddle-cta {
+        max-width: 50rem;
+        padding: 5.6rem 13rem;
+    }
+
+    .get-started-free-bottom:hover, .get-started-free-bottom:focus {
+        background-color: #FF9ADB;
+        border-color: #FF9ADB;
+        cursor: pointer;
+    }
+
+    .footer-info {
+        flex-direction: row;
+        gap: 6rem;
+    }
+
+    .contact-info {
+        max-width: 38rem;
+        gap: 1.6rem;
+    }
+
+    .useful-links {
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin: 0rem;
+        gap: 5rem;
+    }
+
+    .social-media-copyright {
+        margin: 0rem;
+        justify-content: space-between;
+        gap: 10rem;
+    }
+
+
+
+    .social-media-links img:hover, .social-media-links img:focus {
+        filter: brightness(0);
+        filter: saturate(100%);
+        filter: invert(51%) sepia(31%) saturate(4555%) hue-rotate(294deg) brightness(102%) contrast(101%);
+        cursor: pointer;
+    }
+
+    .about-what-faq li:hover, .about-what-faq li:focus, .career-blog-contact li:hover, .career-blog-contact li:focus {
+        text-decoration: underline;
+        cursor: pointer;
+    }
+}
+
+@media (min-width:1400px) {
+
+    .header-container {
+        justify-content: center;
+        align-items: center;
+        background-image: url(../img/bg-hero-desktop.svg);
+        background-repeat: no-repeat;
+        background-position: top;
+        gap: 7.1rem;
+        max-height: 72rem;
+    }
+
+    .header-top-bar {
+        width: 100%;
+        max-width: 127rem;
+        margin: 4.8rem 8rem 0rem 8rem;
+    }
+
+    .header-content {
+        width: 100%;
+        max-width: 127rem;
+        margin-left: 0rem;
+        margin-right: 0rem;
+        margin-top: 0rem;
+        justify-content: space-between;
+        gap: 5.4rem;
+    }
+
+    .try-huddle-free a {
+        font-weight: 700;
+        font-size: 1.4rem;
+        line-height: 1.9rem;
+    }
+
+    .about-huddle {
+        gap: 3.2rem;
+        max-width: 53.6rem;
+    }
+
+    .about-huddle-title {
+        font-weight: 600;
+        font-size: 4rem;
+        line-height: 6rem;
+    }
+
+    .about-huddle-brief {
+        font-size: 1.8rem;
+        line-height: 2.7rem;
+        margin-top: 0rem;
+    }
+
+    .get-started-free {
+        align-self: flex-start;
+        padding: 1.8rem 7rem;
+        border-radius: 2.8rem;
+    }
+
+    .get-started-free a {
+        font-size: 1.4rem;
+        line-height: 1.9rem;
+    }
+
+    .huddle-mockups img {
+        max-width: 68rem;
+    }
+
+    .main-container {
+        margin-top: 18.8rem;
+    }
+
+    .card {
+        max-width: 123rem;
+        flex-basis: 44rem;
+        padding: 0rem;
+        padding-left: 12rem;
+        gap: 15.5rem;
+    }
+
+    .brief {
+        max-width: 49rem;
+    }
+
+    .brief h2 {
+        font-size: 2.8rem;
+        line-height: 4.2rem;
+    }
+
+    .brief p {
+        font-size: 1.8rem;
+        line-height: 2.7rem;
+    }
+
+    .huddle-images {
+        max-width: 44rem;
+        max-height: 44rem;
+    }
+
+    .huddle-images img {
+        object-fit: cover;
+        max-width: 40rem;
+        max-height: 35rem;
+    }
+
+    .huddle-cta {
+        width: 100%;
+        max-width: 80rem;
+        padding: 0rem;
+        padding-top: 5.5rem;
+        padding-bottom: 5.5rem;
+        gap: 3.2rem;
+        top: 12rem;
+    }
+
+    .huddle-cta h2 {
+        font-size: 3.2rem;
+        line-height: 6rem;
+    }
+
+    .get-started-free-bottom {
+        border-radius: 4rem;
+        padding: 2.5rem 10rem;
+    }
+
+    .get-started-free-bottom a {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+
+    .footer-info {
+        gap: 13rem;
+    }
+
+    .useful-links {
+        gap: 13rem;
+    }
+
+    .social-media-copyright {
+        margin-left: 4rem;
+    }
+
+    .social-media-links {
+        align-self: flex-start;
+    }
+
+}

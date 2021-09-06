@@ -1,0 +1,116 @@
+:root {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2 {
+    font-family: 'Poppins', sans-serif;
+}
+
+header {
+    background-color: #EDFBFF;
+}
+
+.try-huddle-free {
+    background-color: #FFF;
+}
+
+.try-huddle-free a {
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 1.36rem;
+    color: #00252E;
+    text-decoration: none;
+}
+
+.about-huddle-title {
+    font-weight: 600;
+    font-size: 2.4rem;
+    line-height: 3.6rem;
+    color: #00252E;
+}
+
+.about-huddle-brief {
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 2.4rem;
+    color: #00252E;
+}
+
+.get-started-free {
+    background-color: #FF52C1;
+}
+
+.get-started-free-bottom {
+    background-color: #FF52C1;
+}
+
+.get-started-free a {
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.get-started-free-bottom a {
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+    color: #FFF;
+    text-decoration: none;
+}
+
+.huddle-grow-brief h2,  .huddle-flow h2, .huddle-users h2 {
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 3rem;
+    color: #00252E;
+}
+
+.huddle-grow-brief p,  .huddle-flow p, .huddle-users p {
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 2.1rem;
+    color: #808E9A;
+}
+
+.huddle-cta {
+    background-color: #FFF;
+}
+
+.huddle-cta h2 {
+    font-weight: 600;
+    font-size: 1.8rem;
+    line-height: 3rem;
+    color: #00252E;
+}
+
+footer {
+    background-color: #00252E;
+    color: #FFF;
+}
+
+.contact p {
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 2.4rem;
+    color: #FFF;
+}
+
+.useful-links li {
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 2.7rem;
+    color: #FFF;
+}
+
+.copyright {
+    font-weight: 400;
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+    color: #FFF;
+}
